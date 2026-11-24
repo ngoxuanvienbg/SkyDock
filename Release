@@ -1,0 +1,8 @@
+Origin: SkyDock
+Label: SkyDock Repository
+Suite: stable
+Codename: ios
+Version: 1.0
+Architectures: iphoneos-arm64
+Components: main
+Description: SkyDock iOS Jailbreak Tweaks Repository
